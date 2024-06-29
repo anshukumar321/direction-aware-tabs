@@ -1,6 +1,5 @@
-import TabView from "@/src/component/TabView";
 import { StyleSheet, View } from "react-native";
-// import { TabView } from "./src/components/TabView";
+import { TabView } from "./src/components/TabView";
 
 export default function App() {
   return (
